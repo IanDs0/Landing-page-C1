@@ -1,6 +1,6 @@
 # Nomde do Projeto: Landing page
 
-- Nome do cliente: Cintia
+- Nome do cliente: Em aberto
 - Status: Em aberto
 - Domínio: Domínio do Cliente
 - Valores: Em aberto
