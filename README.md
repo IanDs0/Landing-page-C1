@@ -13,7 +13,7 @@
 - Plataformas utilizadas para acompanhamento: Github, Trello e grupo do Whatsapp
 
 ## Referências
-[Mentoria Next Level](https://mktdeouro.com.br/nextlevel)
+[Figma Exemplo]([https://mktdeouro.com.br/nextlevel](https://www.figma.com/design/pw8Qj8G4xB7LcFACzmVOy0/Responsive%2FComponents-Landing-Page---Construction-Company-(Community)?node-id=0-1&t=tKVNBMQKaFNlCJQc-1))
 
 ## Orçamento
 
